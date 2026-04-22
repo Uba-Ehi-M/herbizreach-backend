@@ -27,7 +27,7 @@
 24. [Security Hardening Notes](#security-hardening-notes)
 25. [Project Structure](#project-structure)
 
-https://herbizreach.vercel.app/
+link to Herbizreach; https://herbizreach.vercel.app/
 ---
 
 
